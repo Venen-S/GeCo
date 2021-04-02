@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using Models.BaseEntity;
+﻿using Models.BaseEntity;
 
 namespace Models.Entities
 {

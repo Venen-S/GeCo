@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Threading;
@@ -8,7 +7,6 @@ using Coravel.Invocable;
 using Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using Models.Entities;
 using Models.Enums;
 
 namespace Application

@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Data;
-using Models.DTO;
 using Models.Entities;
 using Application;
 using Models.Enums;
